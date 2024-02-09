@@ -2,8 +2,6 @@
 
 UI-index is a repository that collects various tricks and tips to enhance the appearance of user interfaces (UI). It aims to provide a collection of resources and examples to improve the visual appeal and design of UI elements.
 
-## Contains
-
 - **Collection of Tricks**: The repository contains a curated collection of tricks and tips that can be applied to UI design. These tricks cover a wide range of topics, including color schemes, typography, layout, animations, and more.
 
 - **Demo for Each Trick**: Each trick in the repository is accompanied by a demo that showcases its implementation. These demos provide interactive examples, allowing users to see the trick in action and understand its visual impact.
